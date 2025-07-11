@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+torch
+transformers
+peft
+evaluate
+pandas
+datasets
+scikit-learn
+numpy
+requests
